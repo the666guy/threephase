@@ -1,0 +1,1 @@
+ArduinoShield/ contains files pertaining to the hardware design.  These were designed using the open source tool KiCad.  Some of the libraries might not be configured portably and may break.  These issues will be fixed as time permits.  The *.pho files are Gerber files that should be viewable with any Gerber viewer.
